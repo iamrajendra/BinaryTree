@@ -1,4 +1,4 @@
-package bindarytree;
+package inorder.search;
 
 
 
